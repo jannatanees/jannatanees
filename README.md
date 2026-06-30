@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jannat Anees 👋</h1>
+<h1 align="center">Hi there, I'm Jannat Anees </h1>
 
 <p align="center">
 Artificial Intelligence Engineer • LLM Applications • Agentic AI • Trustworthy AI • Computer Vision
@@ -6,7 +6,7 @@ Artificial Intelligence Engineer • LLM Applications • Agentic AI • Trustwo
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm an Artificial Intelligence graduate from **FAST National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad**.
 
@@ -16,48 +16,48 @@ I have industry experience building AI applications through internships at **Jaz
 
 ---
 
-## 💼 Experience
+## Experience
 
-- 🤖 AI Intern @ Jazz
-  - Built an ML-powered telecom KPI anomaly detection system selected for production deployment.
+- AI Intern @ Jazz
+- Built an ML-powered telecom KPI anomaly detection system selected for production deployment.
 
-- 🧠 AI Intern @ atomcamp
-  - Developed LLM-based chatbot components, evaluated language models, and created NLP educational material.
+- AI Intern @ atomcamp
+- Developed LLM-based chatbot components, evaluated language models, and created NLP educational material.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ✈️ Airspace Copilot
+### Airspace Copilot
 Agentic AI aviation monitoring platform using CrewAI, FastAPI, Streamlit, n8n, and OpenSky Network.
 
 🔗 https://github.com/jannatanees/airspace-copilot
 
 ---
 
-### 🔬 HalluciLens *(Private – Research in Progress)*
+### HalluciLens *(Private – Research in Progress)*
 Chrome extension for real-time hallucination detection and citation verification of LLM responses.
 
 *Repository will be made public after supervisor approval.*
 
 ---
 
-### 🖼️ Text2Image Generator *(Coming Soon)*
+### Text2Image Generator *(Coming Soon)*
 Containerized Stable Diffusion microservice using FastAPI, Docker, gRPC, Hugging Face Diffusers, and Gradio.
 
 ---
 
-### 🪖 Helmet Violation Detection *(Coming Soon)*
+### Helmet Violation Detection *(Coming Soon)*
 Explainable computer vision system using geometric reasoning and HSV colour analysis.
 
 ---
 
-### 🚦 Traffic Sign Classification *(Coming Soon)*
+### Traffic Sign Classification *(Coming Soon)*
 Traffic sign recognition using classical digital image processing techniques.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -73,7 +73,7 @@ FastAPI • Streamlit • Docker • Git • GitHub • CrewAI • n8n • Power
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Trustworthy AI
 - Hallucination Detection
@@ -85,7 +85,7 @@ FastAPI • Streamlit • Docker • Git • GitHub • CrewAI • n8n • Power
 
 ---
 
-## 🌱 Currently Working On
+## Currently Working On
 
 - Open-sourcing my AI portfolio
 - Preparing HalluciLens for publication
@@ -93,7 +93,7 @@ FastAPI • Streamlit • Docker • Git • GitHub • CrewAI • n8n • Power
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: https://linkedin.com/in/jannat-anees
 - Email: jannatanees002@gmail.com
