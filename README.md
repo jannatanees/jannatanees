@@ -48,8 +48,9 @@ Containerized Stable Diffusion microservice using FastAPI, Docker, gRPC, Hugging
 
 ---
 
-### Helmet Violation Detection *(Coming Soon)*
-Explainable computer vision system using geometric reasoning and HSV colour analysis.
+### Selenium Phone Recommender
+Selenium web scraping, data preprocessing, rule-based NLP, Tkinter, and Flask to build a smartphone recommendation system.
+🔗 https://github.com/jannatanees/selenium-phone-recommender
 
 ---
 
