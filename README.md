@@ -42,8 +42,9 @@ Chrome extension for real-time hallucination detection and citation verification
 
 ---
 
-### Text2Image Generator *(Coming Soon)*
+### Text2Image Generator 
 Containerized Stable Diffusion microservice using FastAPI, Docker, gRPC, Hugging Face Diffusers, and Gradio.
+🔗 https://github.com/jannatanees/text2image-generator
 
 ---
 
