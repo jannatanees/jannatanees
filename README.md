@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jannat Anees </h1>
 
 <p align="center">
-Artificial Intelligence Engineer • LLM Applications • Agentic AI • Trustworthy AI • Computer Vision
+Artificial Intelligence Engineer • LLM Systems • Agentic AI • Trustworthy AI • Computer Vision
 </p>
 
 ---
@@ -25,39 +25,49 @@ I have industry experience building AI applications through internships at **Jaz
 - Developed LLM-based chatbot components, evaluated language models, and created NLP educational material.
 
 ---
+## Currently Working On
 
-## Featured Projects
+### HalluciLens — Research Paper & Open-Source Release *(Coming Soon)*
+
+HalluciLens is my final-year research project: a browser-integrated system for detecting hallucinations and verifying citations in LLM-generated responses.
+
+The project combines retrieval-augmented verification, Natural Language Inference (NLI), citation validation, and prompt improvement into a real-time Chrome extension that analyzes AI responses sentence-by-sentence and explains why claims are verified, contradicted, or uncertain.
+
+Current work includes:
+
+- Finalizing the research paper for conference submission
+- Preparing the public GitHub repository with documentation and reproducible experiments
+- Improving evaluation on the FEVER benchmark and citation verification datasets
+- Optimizing the browser extension for faster real-time inference
+- Expanding support for additional scholarly and factual knowledge sources
+
+The paper reports a complete end-to-end verification pipeline featuring sentence-level fact checking, confidence-aware evidence retrieval, citation verification across DOI, arXiv, URL, and author-year formats, and an automated prompt improvement system for reducing future hallucinations. The public repository and publication will be released soon.
 
 ### Airspace Copilot
-Agentic AI aviation monitoring platform using CrewAI, FastAPI, Streamlit, n8n, and OpenSky Network.
+Agentic AI aviation monitoring platform using CrewAI, FastAPI, Streamlit, n8n, OpenSky Network, and LLM-powered autonomous agents.
 
 🔗 https://github.com/jannatanees/airspace-copilot
 
 ---
 
-### HalluciLens *(Private – Research in Progress)*
-Chrome extension for real-time hallucination detection and citation verification of LLM responses.
+### Agentic Research Assistant
+Multi-agent research pipeline that automatically retrieves academic papers, performs semantic search with embeddings, generates summaries using LLMs, evaluates retrieval quality, and produces visualization-rich PDF reports.
 
-*Repository will be made public after supervisor approval.*
+🔗 https://github.com/jannatanees/agentic-research-assistant
 
 ---
 
-### Text2Image Generator 
-Containerized Stable Diffusion microservice using FastAPI, Docker, gRPC, Hugging Face Diffusers, and Gradio.
+### Text2Image Generator
+Containerized Stable Diffusion inference service built with FastAPI, Docker, gRPC, Hugging Face Diffusers, and Gradio.
+
 🔗 https://github.com/jannatanees/text2image-generator
 
 ---
 
 ### Selenium Phone Recommender
-Selenium web scraping, data preprocessing, rule-based NLP, Tkinter, and Flask to build a smartphone recommendation system.
+End-to-end smartphone recommendation system combining Selenium web scraping, rule-based NLP, Tkinter, Flask, and interactive analytics.
+
 🔗 https://github.com/jannatanees/selenium-phone-recommender
-
----
-
-### Traffic Sign Classification *(Coming Soon)*
-Traffic sign recognition using classical digital image processing techniques.
-
----
 
 ## Tech Stack
 
