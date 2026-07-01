@@ -18,11 +18,9 @@ I have industry experience building AI applications through internships at **Jaz
 
 ## Experience
 
-- AI Intern @ Jazz
-- Built an ML-powered telecom KPI anomaly detection system selected for production deployment.
+- AI Intern @ Jazz: Built an ML-powered telecom KPI anomaly detection system selected for production deployment.
 
-- AI Intern @ atomcamp
-- Developed LLM-based chatbot components, evaluated language models, and created NLP educational material.
+- AI Intern @ atomcamp: Developed LLM-based chatbot components, evaluated language models, and created NLP educational material.
 
 ---
 ## Currently Working On
@@ -42,6 +40,9 @@ Current work includes:
 - Expanding support for additional scholarly and factual knowledge sources
 
 The paper reports a complete end-to-end verification pipeline featuring sentence-level fact checking, confidence-aware evidence retrieval, citation verification across DOI, arXiv, URL, and author-year formats, and an automated prompt improvement system for reducing future hallucinations. The public repository and publication will be released soon.
+
+---
+## Featured Projects
 
 ### Airspace Copilot
 Agentic AI aviation monitoring platform using CrewAI, FastAPI, Streamlit, n8n, OpenSky Network, and LLM-powered autonomous agents.
